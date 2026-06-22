@@ -1,0 +1,10 @@
+{
+  "name": "datto-rmm-mcp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "datto-rmm-mcp-server"
+  },
+  "dependencies": {
+    "datto-rmm-mcp-server": "0.1.0"
+  }
+}
