@@ -2,7 +2,7 @@
   "name": "datto-rmm-mcp",
   "version": "1.0.0",
   "scripts": {
-    "start": "datto-rmm-mcp-server"
+    "start": "node node_modules/datto-rmm-mcp-server/dist/index.js"
   },
   "dependencies": {
     "datto-rmm-mcp-server": "0.1.0"
